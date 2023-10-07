@@ -1,0 +1,30 @@
+img {
+    border: 2px solid orange;
+    border-radius:8px;
+}
+ul {
+    list-style-type: disc;
+}
+
+table, th, td{
+    table-layout: fixed;
+    width: 30%;
+    border-collapse: collapse;
+    border:1px solid orange;
+    padding: 10px;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+a{
+    white-space: nowrap;
+}
+
+body, html {
+    margin-left:1%;
+    margin-right:1%;
+    margin-bottom:1%;
+    margin-top:1%;
+    width:98%;
+    height:98%;
+}
